@@ -1,0 +1,16 @@
+/home/asboner/Software/fusionseq/bin/gfrMitochondrialFilter
+/home/asboner/Software/fusionseq/bin/gfrRepeatMaskerFilter 5
+/home/asboner/Software/fusionseq/bin/gfrAbnormalInsertSizeFilter 0.01
+/home/asboner/Software/fusionseq/bin/gfrPCRFilter 4 4
+/home/asboner/Software/fusionseq/bin/gfrProximityFilter 2000
+/home/asboner/Software/fusionseq/bin/gfrLargeScaleHomologyFilter
+/home/asboner/Software/fusionseq/bin/gfrAddInfo
+/home/asboner/Software/fusionseq/bin/gfrAnnotationConsistencyFilter ribosomal
+/home/asboner/Software/fusionseq/bin/gfrAnnotationConsistencyFilter pseudogene
+/home/asboner/Software/fusionseq/bin/gfrBlackListFilter
+/home/asboner/Software/fusionseq/bin/gfrLargeScaleHomologyFilter
+/home/asboner/Software/fusionseq/bin/gfrRibosomalFilter
+/home/asboner/Software/fusionseq/bin/gfrSmallScaleHomologyFilter
+/home/asboner/Software/fusionseq/bin/gfrCountPairTypes
+/home/asboner/Software/fusionseq/bin/gfrExpressionConsistencyFilter
+/home/asboner/Software/fusionseq/bin/gfrRandomPairingFilter

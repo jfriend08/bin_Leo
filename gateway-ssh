@@ -1,0 +1,2 @@
+#! /bin/sh
+ssh ys486@pascal.med.cornell.edu ssh $@
